@@ -10,5 +10,5 @@ This simulation technique is a fast and accurate solution for the path-dependent
 
 ## References
 
-- [Azzone, M., Baviera, R. A fast Monte Carlo scheme for additive processes and option pricing. Comput Manag Sci 20, 31 (2023).](https://doi.org/10.1007/s10287-023-00463-1)
-- [Author Name2, Title of Another Paper or Resource](link2)
+1. [Azzone, M., Baviera, R. A fast Monte Carlo scheme for additive processes and option pricing. Comput Manag Sci 20, 31 (2023).](https://doi.org/10.1007/s10287-023-00463-1)
+2. [Chourdakis, Kyriakos, Option Pricing Using the Fractional FFT](https://www.risk.net/journal-computational-finance/2160574/option-pricing-using-fractional-fft)
