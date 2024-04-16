@@ -1,6 +1,7 @@
 # FFT Monte Carlo for Additive Processes
 
-MATLAB implementation of the monte carlo numerical scheme based on fractional Fourier transform for addive processess proposed in  
+MATLAB implementation of the Monte Carlo numerical scheme for addive processess as proposed by [Azzone and Baviera (2023)](https://doi.org/10.1007/s10287-023-00463-1). 
+Implementation of a possible extention of the algorithm exploring the use of the fractional fast Fourier transform technique as descrived by [Chourdakis (2005)](https://www.risk.net/journal-computational-finance/2160574/option-pricing-using-fractional-fft).
 
 ## Description
 
