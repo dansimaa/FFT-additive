@@ -3,6 +3,9 @@
 This repository contains a MATLAB implementation of the Monte Carlo numerical scheme for additive processes proposed by [Azzone and Baviera (2023)](https://doi.org/10.1007/s10287-023-00463-1). 
 The code provides a computational framework to simulate these processes and reproduce the results discussed in the referenced publication.
 Additionally, an extension of the algorithm is implemented, exploring the utilization of the fractional fast Fourier transform technique as described by [Chourdakis (2005)](https://www.risk.net/journal-computational-finance/2160574/option-pricing-using-fractional-fft).
+<br>
+This project was developed as part of the Financial Engineering coursework at Politecnico di Milano and won the Best Pitch Award for the academic year 2021-2022. You can find more details about the award [here](https://www.qfinlab.polimi.it/best-pitch-award-ay-2021-2022/) 🏆.
+
 
 ## Description
 
